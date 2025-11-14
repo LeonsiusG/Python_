@@ -10,7 +10,7 @@ Laporan ini memuat penjelasan mendalam mengenai distribusi nilai, rata-rata per 
 # 1. Grafik Rata-rata Nilai Siswa per Mata Pelajaran
 Visualisasi ini menunjukkan nilai rata-rata siswa pada tiap mata pelajaran dan membantu melihat mana pelajaran yang memiliki performa paling kuat atau paling lemah.
 
-![Rata-rata Nilai](Rata-Rata_Nilai.png)
+![Rata-rata Nilai](Rata_Rata_Nilai.png)
 
 ## Interpretasi:
 - **Matematika** memiliki rata-rata tertinggi → siswa unggul dalam logika & numerik.
